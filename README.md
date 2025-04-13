@@ -98,5 +98,4 @@ To build an intelligent weather advisory system that can predict flood risks bas
 - Expand to support multi-city predictions and dashboard interface
 
 ---
-
-If you'd like to deploy this to a web frontend or publish a demo, I can help generate an interactive UI 🙌
+All sources are used for academic purposes.
