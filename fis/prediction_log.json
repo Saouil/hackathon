@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2025-04-13T06:11:10.868368",
+    "location": "Miri",
+    "tmin": 25.0,
+    "tmax": 33.2,
+    "prcp": 8.200000000000003,
+    "fuzzy_label": "Low",
+    "risk_score": 11699.11
+  }
+]

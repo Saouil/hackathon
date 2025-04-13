@@ -1,0 +1,119 @@
+{
+    "features": {
+        "tavg": {
+            "normalization": {
+                "min": 25.0,
+                "max": 28.8
+            },
+            "membership_functions": [
+                {
+                    "center": 0.26491228070175404,
+                    "sigma": 0.09780187271698303,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.42922403809033527,
+                    "sigma": 0.09780187271698303,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.6561197715696861,
+                    "sigma": 0.09780187271698303,
+                    "type": "gaussmf"
+                }
+            ]
+        },
+        "tmin": {
+            "normalization": {
+                "min": 22.1,
+                "max": 25.6
+            },
+            "membership_functions": [
+                {
+                    "center": 0.3474285714285711,
+                    "sigma": 0.05987515710096361,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.39175689835836514,
+                    "sigma": 0.05987515710096361,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.5869291998324255,
+                    "sigma": 0.05987515710096361,
+                    "type": "gaussmf"
+                }
+            ]
+        },
+        "tmax": {
+            "normalization": {
+                "min": 28.3,
+                "max": 34.5
+            },
+            "membership_functions": [
+                {
+                    "center": 0.3501075268817203,
+                    "sigma": 0.06670403304638478,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.587309724741699,
+                    "sigma": 0.06670403304638478,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.6169236590672594,
+                    "sigma": 0.06670403304638478,
+                    "type": "gaussmf"
+                }
+            ]
+        },
+        "prcp": {
+            "normalization": {
+                "min": 8.0,
+                "max": 1400.4
+            },
+            "membership_functions": [
+                {
+                    "center": 0.15388501972585147,
+                    "sigma": 0.049188900196373946,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.19441726620726274,
+                    "sigma": 0.049188900196373946,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.35064062051134726,
+                    "sigma": 0.049188900196373946,
+                    "type": "gaussmf"
+                }
+            ]
+        },
+        "pres": {
+            "normalization": {
+                "min": 1007.2,
+                "max": 1012.5
+            },
+            "membership_functions": [
+                {
+                    "center": 0.4392740552205032,
+                    "sigma": 0.01832421812272636,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.48867924528302825,
+                    "sigma": 0.01832421812272636,
+                    "type": "gaussmf"
+                },
+                {
+                    "center": 0.5125709277114087,
+                    "sigma": 0.01832421812272636,
+                    "type": "gaussmf"
+                }
+            ]
+        }
+    }
+}

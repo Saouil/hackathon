@@ -1,0 +1,1664 @@
+{
+    "rules": [
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "440.3148 + 30.9878*tavg + 173.4436*tmin + -155.8660*tmax + 40.4162*prcp + 0.0000*pres",
+                "intercept": 440.3147735711132,
+                "coefficients": {
+                    "tavg": 30.987846428628615,
+                    "tmin": 173.4436112790685,
+                    "tmax": -155.8659805912904,
+                    "prcp": 40.416237268199374,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "443.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 443.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "241.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 241.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "-169.7799 + 7.8274*tavg + -133.0446*tmin + 549.6165*tmax + 331.7161*prcp + 62.1198*pres",
+                "intercept": -169.77993293954017,
+                "coefficients": {
+                    "tavg": 7.827446875879332,
+                    "tmin": -133.04459149180965,
+                    "tmax": 549.6165299204678,
+                    "prcp": 331.7161149210308,
+                    "pres": 62.119839696193914
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "241.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 241.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "320.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 320.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "521.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 521.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "207.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 207.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "320.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 320.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "521.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 521.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "440.3148 + 30.9878*tavg + 173.4436*tmin + -155.8660*tmax + 40.4162*prcp + 0.0000*pres",
+                "intercept": 440.3147735711132,
+                "coefficients": {
+                    "tavg": 30.987846428628615,
+                    "tmin": 173.4436112790685,
+                    "tmax": -155.8659805912904,
+                    "prcp": 40.416237268199374,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "443.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 443.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "157.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 157.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "521.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 521.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-10.9943 + -25.3020*tavg + 0.0000*tmin + 35.8870*tmax + 1428.0616*prcp + 0.0000*pres",
+                "intercept": -10.994263034625419,
+                "coefficients": {
+                    "tavg": -25.302031162587696,
+                    "tmin": 0.0,
+                    "tmax": 35.88696910384106,
+                    "prcp": 1428.0615870540885,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "521.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 521.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "198.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 198.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "483.9000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 483.9,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-398.4644 + 52.0380*tavg + 385.6290*tmin + 451.9411*tmax + 1051.7952*prcp + 78.7130*pres",
+                "intercept": -398.464436286911,
+                "coefficients": {
+                    "tavg": 52.03802443826535,
+                    "tmin": 385.62901070870095,
+                    "tmax": 451.94108977968176,
+                    "prcp": 1051.7951567709315,
+                    "pres": 78.71297925541565
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "420.3113 + -69.0676*tavg + 192.7378*tmin + -386.0087*tmax + 157.8865*prcp + -63.1836*pres",
+                "intercept": 420.31133331815863,
+                "coefficients": {
+                    "tavg": -69.06763653261977,
+                    "tmin": 192.73776749211132,
+                    "tmax": -386.00865694599617,
+                    "prcp": 157.88652262341103,
+                    "pres": -63.183632401339175
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "-478.0712 + 543.6969*tavg + 28.1069*tmin + 234.0832*tmax + 1178.1828*prcp + 350.1559*pres",
+                "intercept": -478.0712156562697,
+                "coefficients": {
+                    "tavg": 543.6968696692104,
+                    "tmin": 28.106944942450518,
+                    "tmax": 234.0832234985332,
+                    "prcp": 1178.1828179605593,
+                    "pres": 350.155929202293
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "353.2935 + -632.4955*tavg + 0.0000*tmin + 15.4181*tmax + 950.3910*prcp + 0.0000*pres",
+                "intercept": 353.2934749795719,
+                "coefficients": {
+                    "tavg": -632.4955395897341,
+                    "tmin": 0.0,
+                    "tmax": 15.418068929490829,
+                    "prcp": 950.3909608594513,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "42.3349 + -119.6898*tavg + 76.4902*tmin + 190.4470*tmax + 1310.5775*prcp + -220.5105*pres",
+                "intercept": 42.334938291502624,
+                "coefficients": {
+                    "tavg": -119.68980035185092,
+                    "tmin": 76.49018433221235,
+                    "tmax": 190.4470291578362,
+                    "prcp": 1310.5774950854677,
+                    "pres": -220.51050159743298
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "9.5132 + -919.7851*tavg + 388.1682*tmin + 506.6857*tmax + 968.9771*prcp + 0.0000*pres",
+                "intercept": 9.513202368376824,
+                "coefficients": {
+                    "tavg": -919.7850548935387,
+                    "tmin": 388.16818915374296,
+                    "tmax": 506.68570595364446,
+                    "prcp": 968.977122027284,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "1311.6880 + -1403.5867*tavg + 362.2907*tmin + -291.9921*tmax + -143.6472*prcp + -466.5412*pres",
+                "intercept": 1311.6880258792855,
+                "coefficients": {
+                    "tavg": -1403.5867270562628,
+                    "tmin": 362.29073095000064,
+                    "tmax": -291.9921427065936,
+                    "prcp": -143.64715959745317,
+                    "pres": -466.54116418639325
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "-60.8224 + -42.7458*tavg + 18.6375*tmin + -98.8671*tmax + 1141.5953*prcp + 412.2221*pres",
+                "intercept": -60.82237758758109,
+                "coefficients": {
+                    "tavg": -42.74576459781338,
+                    "tmin": 18.637549141724786,
+                    "tmax": -98.86706585571919,
+                    "prcp": 1141.5952518193342,
+                    "pres": 412.2221280521248
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "198.3755 + -210.1855*tavg + 568.1576*tmin + -95.8937*tmax + 962.9841*prcp + -367.3393*pres",
+                "intercept": 198.375463817985,
+                "coefficients": {
+                    "tavg": -210.18551843892698,
+                    "tmin": 568.1575676198598,
+                    "tmax": -95.89369303132541,
+                    "prcp": 962.9841217768435,
+                    "pres": -367.33931150957585
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "222.0148 + 5.3444*tavg + 30.9260*tmin + 3.0424*tmax + 978.6025*prcp + -330.3433*pres",
+                "intercept": 222.0148311661366,
+                "coefficients": {
+                    "tavg": 5.344423580104433,
+                    "tmin": 30.925998715532366,
+                    "tmax": 3.042398555259457,
+                    "prcp": 978.602536997171,
+                    "pres": -330.3432798881697
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "505.2925 + -599.6783*tavg + -141.3518*tmin + 21.2818*tmax + 383.9765*prcp + 0.0000*pres",
+                "intercept": 505.2924920917203,
+                "coefficients": {
+                    "tavg": -599.678301434663,
+                    "tmin": -141.35180935889818,
+                    "tmax": 21.28183829150003,
+                    "prcp": 383.97647859143393,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "-269.3643 + 4.7728*tavg + 5.6921*tmin + 134.4534*tmax + 1172.2237*prcp + 479.9037*pres",
+                "intercept": -269.36429445239196,
+                "coefficients": {
+                    "tavg": 4.772826493708521,
+                    "tmin": 5.692134652386703,
+                    "tmax": 134.45344023936255,
+                    "prcp": 1172.2237132719922,
+                    "pres": 479.90367242701507
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "592.2632 + -267.9093*tavg + -253.9235*tmin + -357.6237*tmax + 231.3726*prcp + 93.1937*pres",
+                "intercept": 592.263159156506,
+                "coefficients": {
+                    "tavg": -267.90928061034015,
+                    "tmin": -253.9234554994347,
+                    "tmax": -357.6237316639997,
+                    "prcp": 231.37257645351835,
+                    "pres": 93.19372788012556
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "442.3000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 442.3,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "1311.6880 + -1403.5867*tavg + 362.2907*tmin + -291.9921*tmax + -143.6472*prcp + -466.5412*pres",
+                "intercept": 1311.6880258792855,
+                "coefficients": {
+                    "tavg": -1403.5867270562628,
+                    "tmin": 362.29073095000064,
+                    "tmax": -291.9921427065936,
+                    "prcp": -143.64715959745317,
+                    "pres": -466.54116418639325
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "265.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 265.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "198.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 198.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "265.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 265.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "483.9000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 483.9,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "8.0000 + 0.0000*tavg + -0.0000*tmin + -0.0000*tmax + 1392.4000*prcp + -0.0000*pres",
+                "intercept": 8.000000000000938,
+                "coefficients": {
+                    "tavg": 6.523442162518579e-13,
+                    "tmin": -1.1368683772161603e-13,
+                    "tmax": -7.087719347521812e-13,
+                    "prcp": 1392.4,
+                    "pres": -1.6279043361800544e-12
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "559.9661 + -23.2360*tavg + -231.5186*tmin + -452.1959*tmax + 573.1770*prcp + -124.9572*pres",
+                "intercept": 559.9661316337421,
+                "coefficients": {
+                    "tavg": -23.236038027002564,
+                    "tmin": -231.51856952826307,
+                    "tmax": -452.195890061118,
+                    "prcp": 573.1770089562599,
+                    "pres": -124.95723354456968
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "-134.4393 + 474.8872*tavg + 0.0000*tmin + 0.0000*tmax + 1205.2939*prcp + 0.0000*pres",
+                "intercept": -134.43927507468493,
+                "coefficients": {
+                    "tavg": 474.8871680320142,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 1205.2939182886919,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "8.0000 + -0.0000*tavg + -0.0000*tmin + -0.0000*tmax + 1392.4000*prcp + 0.0000*pres",
+                "intercept": 8.000000000000057,
+                "coefficients": {
+                    "tavg": -1.6615855444902396e-14,
+                    "tmin": -1.7053025658242404e-13,
+                    "tmax": -3.414003212461845e-13,
+                    "prcp": 1392.4000000000005,
+                    "pres": 4.0328876209415324e-13
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "11.8008 + -285.5219*tavg + -84.9822*tmin + 335.8719*tmax + 1197.2111*prcp + 0.0000*pres",
+                "intercept": 11.800824998030691,
+                "coefficients": {
+                    "tavg": -285.52189439219177,
+                    "tmin": -84.9821861440988,
+                    "tmax": 335.87191103019876,
+                    "prcp": 1197.2111322900175,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "250.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 250.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "191.0230 + -1006.8183*tavg + 0.0000*tmin + 0.0000*tmax + 2059.5237*prcp + 0.0000*pres",
+                "intercept": 191.02303197874755,
+                "coefficients": {
+                    "tavg": -1006.8183230370311,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 2059.523742741401,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "1311.6880 + -1403.5867*tavg + 362.2907*tmin + -291.9921*tmax + -143.6472*prcp + -466.5412*pres",
+                "intercept": 1311.6880258792855,
+                "coefficients": {
+                    "tavg": -1403.5867270562628,
+                    "tmin": 362.29073095000064,
+                    "tmax": -291.9921427065936,
+                    "prcp": -143.64715959745317,
+                    "pres": -466.54116418639325
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "8.0000 + -0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 1392.4000*prcp + 0.0000*pres",
+                "intercept": 7.999999999997129,
+                "coefficients": {
+                    "tavg": -1.3289791420620927e-12,
+                    "tmin": 1.3073986337985843e-12,
+                    "tmax": 9.629801917268535e-13,
+                    "prcp": 1392.3999999999992,
+                    "pres": 5.526057654326963e-12
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "198.3755 + -210.1855*tavg + 568.1576*tmin + -95.8937*tmax + 962.9841*prcp + -367.3393*pres",
+                "intercept": 198.375463817985,
+                "coefficients": {
+                    "tavg": -210.18551843892698,
+                    "tmin": 568.1575676198598,
+                    "tmax": -95.89369303132541,
+                    "prcp": 962.9841217768435,
+                    "pres": -367.33931150957585
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "366.9239 + -265.6530*tavg + 125.8199*tmin + 0.0000*tmax + 98.9158*prcp + -200.8431*pres",
+                "intercept": 366.9238763137257,
+                "coefficients": {
+                    "tavg": -265.65302166124667,
+                    "tmin": 125.81988962893853,
+                    "tmax": 0.0,
+                    "prcp": 98.91584208333265,
+                    "pres": -200.84308780240573
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "8.0000 + 0.0000*tavg + 0.0000*tmin + -0.0000*tmax + 1392.4000*prcp + -0.0000*pres",
+                "intercept": 8.00000000000017,
+                "coefficients": {
+                    "tavg": 9.068904617177881e-13,
+                    "tmin": 2.2737367544323206e-13,
+                    "tmax": -1.311600912944184e-13,
+                    "prcp": 1392.4000000000003,
+                    "pres": -1.5037816014657976e-12
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "55.3756 + -199.5395*tavg + 868.6917*tmin + -555.5315*tmax + 1792.1381*prcp + 0.0000*pres",
+                "intercept": 55.3755860037995,
+                "coefficients": {
+                    "tavg": -199.53945857806457,
+                    "tmin": 868.6917189411507,
+                    "tmax": -555.5315120929569,
+                    "prcp": 1792.138134207072,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "218.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 218.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "74.4154 + 269.6620*tavg + 61.1822*tmin + -250.9344*tmax + 1213.7204*prcp + 0.0000*pres",
+                "intercept": 74.4154373729636,
+                "coefficients": {
+                    "tavg": 269.6619781405202,
+                    "tmin": 61.182180742393946,
+                    "tmax": -250.9343534072928,
+                    "prcp": 1213.7203871881286,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "1311.6880 + -1403.5867*tavg + 362.2907*tmin + -291.9921*tmax + -143.6472*prcp + -466.5412*pres",
+                "intercept": 1311.6880258792855,
+                "coefficients": {
+                    "tavg": -1403.5867270562628,
+                    "tmin": 362.29073095000064,
+                    "tmax": -291.9921427065936,
+                    "prcp": -143.64715959745317,
+                    "pres": -466.54116418639325
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "171.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 171.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "-276.7969 + 119.1222*tavg + 5.4332*tmin + 47.0466*tmax + 1253.8143*prcp + 449.6910*pres",
+                "intercept": -276.79690997681985,
+                "coefficients": {
+                    "tavg": 119.12216544971756,
+                    "tmin": 5.433238323475507,
+                    "tmax": 47.046588282126244,
+                    "prcp": 1253.8143340310535,
+                    "pres": 449.6910400209343
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "235.2000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 235.2,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "342.8000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 342.8,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "-276.7969 + 119.1222*tavg + 5.4332*tmin + 47.0466*tmax + 1253.8143*prcp + 449.6910*pres",
+                "intercept": -276.79690997681985,
+                "coefficients": {
+                    "tavg": 119.12216544971756,
+                    "tmin": 5.433238323475507,
+                    "tmax": 47.046588282126244,
+                    "prcp": 1253.8143340310535,
+                    "pres": 449.6910400209343
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "235.2000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 235.2,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "459.9000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 459.9,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "171.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 171.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "-276.7969 + 119.1222*tavg + 5.4332*tmin + 47.0466*tmax + 1253.8143*prcp + 449.6910*pres",
+                "intercept": -276.79690997681985,
+                "coefficients": {
+                    "tavg": 119.12216544971756,
+                    "tmin": 5.433238323475507,
+                    "tmax": 47.046588282126244,
+                    "prcp": 1253.8143340310535,
+                    "pres": 449.6910400209343
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "235.2000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 235.2,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "342.8000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 342.8,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "-276.7969 + 119.1222*tavg + 5.4332*tmin + 47.0466*tmax + 1253.8143*prcp + 449.6910*pres",
+                "intercept": -276.79690997681985,
+                "coefficients": {
+                    "tavg": 119.12216544971756,
+                    "tmin": 5.433238323475507,
+                    "tmax": 47.046588282126244,
+                    "prcp": 1253.8143340310535,
+                    "pres": 449.6910400209343
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "235.2000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 235.2,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "233.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 233.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "8.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 1392.4000*prcp + -0.0000*pres",
+                "intercept": 8.000000000000142,
+                "coefficients": {
+                    "tavg": 1.197650709332402e-14,
+                    "tmin": 1.0658141036401503e-13,
+                    "tmax": 9.07448906310043e-14,
+                    "prcp": 1392.4,
+                    "pres": -4.435492568329688e-13
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "208.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 208.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "263.9846 + -118.2095*tavg + 0.0000*tmin + -436.4510*tmax + 439.5512*prcp + 542.4474*pres",
+                "intercept": 263.98464246209073,
+                "coefficients": {
+                    "tavg": -118.20948086315138,
+                    "tmin": 0.0,
+                    "tmax": -436.45095573244333,
+                    "prcp": 439.5512114609192,
+                    "pres": 542.4474000740066
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "8.0000 + -0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 1392.4000*prcp + 0.0000*pres",
+                "intercept": 7.999999999999943,
+                "coefficients": {
+                    "tavg": -4.362430246687263e-13,
+                    "tmin": 0.0,
+                    "tmax": 5.700620568456846e-13,
+                    "prcp": 1392.3999999999996,
+                    "pres": 3.648533907031201e-13
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "233.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 233.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "8.0000 + -0.0000*tavg + 0.0000*tmin + -0.0000*tmax + 1392.4000*prcp + 0.0000*pres",
+                "intercept": 7.999999999999915,
+                "coefficients": {
+                    "tavg": -1.6002788439318206e-13,
+                    "tmin": 3.339550858072471e-13,
+                    "tmax": -7.181427197743266e-14,
+                    "prcp": 1392.4,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            },
+            "THEN": {
+                "equation": "89.0938 + 128.6622*tavg + 56.8512*tmin + -48.3963*tmax + 15.8003*prcp + 40.7715*pres",
+                "intercept": 89.0937796133103,
+                "coefficients": {
+                    "tavg": 128.66216689437638,
+                    "tmin": 56.8511950341285,
+                    "tmax": -48.39627085941524,
+                    "prcp": 15.800307895499964,
+                    "pres": 40.77146987313067
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            },
+            "THEN": {
+                "equation": "233.0000 + 0.0000*tavg + 0.0000*tmin + 0.0000*tmax + 0.0000*prcp + 0.0000*pres",
+                "intercept": 233.0,
+                "coefficients": {
+                    "tavg": 0.0,
+                    "tmin": 0.0,
+                    "tmax": 0.0,
+                    "prcp": 0.0,
+                    "pres": 0.0
+                }
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            },
+            "THEN": {
+                "equation": "230.6075 + -0.0000*tavg + 0.0000*tmin + -0.0000*tmax + 1392.4000*prcp + -471.9279*pres",
+                "intercept": 230.60751369146038,
+                "coefficients": {
+                    "tavg": -4.1048988845244686e-13,
+                    "tmin": 4.547473508864641e-13,
+                    "tmax": -3.714442240190387e-13,
+                    "prcp": 1392.4000000000003,
+                    "pres": -471.92792902589156
+                }
+            }
+        }
+    ]
+}

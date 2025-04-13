@@ -1,0 +1,2191 @@
+{
+    "rules": [
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Low",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "Medium",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Low",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "Medium",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Low",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "Medium",
+                "prcp": "High",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Low",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "Medium",
+                "pres": "High"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Low"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "Medium"
+            }
+        },
+        {
+            "IF": {
+                "tavg": "High",
+                "tmin": "High",
+                "tmax": "High",
+                "prcp": "High",
+                "pres": "High"
+            }
+        }
+    ]
+}
