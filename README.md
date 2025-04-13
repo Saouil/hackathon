@@ -4,7 +4,7 @@ Smart Meteorological Disaster Prevention System: A Fuzzy Logic-Based Flood Predi
 ---
 
 ## 🧑‍💻 Team Members
-- Leader: Huang Kee Ngong
+- Leader: Huang Kee Nguong
 - Member: Andrew Lim Kim Seng
 
 ---
