@@ -1,14 +1,7 @@
-
-# 🧠 AI Hackathon Project Summary Report (April 12–13, 2025)
-
 ## 📌 Project Title:
 Smart Meteorological Disaster Prevention System: A Fuzzy Logic-Based Flood Prediction and Q&A Assistant Platform
 
 ---
-
-## 📅 Event Duration
-- **Start Date**: April 12, 2025
-- **End Date**: April 13, 2025
 
 ## 🧑‍💻 Team Members
 - Leader: Huang Kee Ngong
